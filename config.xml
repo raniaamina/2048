@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.w3s.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>W3School Luring</name>
+    <name>Ubin 2048</name>
     <description>
         Permainan 2048 yang dikemas ulang dengan Phonegap
     </description>
